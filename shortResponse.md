@@ -10,7 +10,7 @@ What is the difference between a static unit like `px` and a responsive unit lik
 
 Describe what makes a unit responsive and why that matters when building a website.
 
-
+The difference between px and a responsive unit is that px is static and responsive units change size depending on the size of the screen.
 
 
 
@@ -34,7 +34,7 @@ Look at these two CSS rules:
 ```
 
 Explain what happens to the image on a small screen with each rule. Why does one behave better than the other?
-
+On the first css rule, it will stay static no matter what screen size but the second rule will change depending on the size
 
 
 
